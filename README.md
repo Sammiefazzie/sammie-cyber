@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sammie! <br/><a href="https://github.com/sammiefazzie@gmail.com">Programmer</a>, <a href="https://www.linkedin.com/in/sammiefazzie/">Cybersecurity Analyst</a>, <a</h1>
+<h1>Hi, I'm Sammie! <br/><a href="https://github.com/sammiefazzie@gmail.com">Programmer</a>, <a href="https://www.linkedin.com/in/sammiefazzie/">Cybersecurity Analyst</a> <a</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
