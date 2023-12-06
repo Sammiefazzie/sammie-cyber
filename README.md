@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Risk Management </b>
-  - [Security Audits](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Security Audits](https://github.com/Sammiefazzie/security-audit)
 
  <h32>Certifications </h3>
   - <b>[Foundations of Cybersecurity](https://coursera.org/verify/X9AUAAA3KAAL)
